@@ -30,17 +30,12 @@ This project was created as a hands-on threat intelligence learning project to p
 ## Repository Structure
 
 ```text
-reports/
-  medusa-threat-intelligence-report.md
+reports/medusa-threat-intelligence-report.md
 
-iocs/
-  medusa-iocs.csv
+iocs/ medusa-iocs.csv
 
-mitre-mapping/
-  mitre-attack-mapping.md
+mitre-mapping/mitre-attack-mapping.md
 
-detection-and-mitigation/
-  recommendations.md
+detection-and-mitigation/recommendations.md
 
-references/
-  sources.md
+references/sources.md
