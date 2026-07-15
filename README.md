@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Medusa ransomware from a cyber threat intelligence perspective using publicly available sources, including the CISA/FBI/MS-ISAC StopRansomware advisory.
+This project analyzes Medusa ransomware from a cyber threat intelligence perspective using publicly available sources, including the CISA,FBI,MS-ISAC StopRansomware advisory.
 
 The goal of this project is to understand Medusa’s attack lifecycle, initial access methods, tools, tactics, techniques, procedures, exfiltration behavior, encryption activity, MITRE ATT&CK mapping, and recommended defensive actions.
 
