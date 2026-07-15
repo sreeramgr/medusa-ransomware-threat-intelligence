@@ -1,0 +1,10 @@
+ioc_type,ioc_value,description,source,confidence,notes
+file_extension,.medusa,Extension used for encrypted files,CISA/FBI/MS-ISAC advisory,High,Observed as Medusa ransomware encrypted file extension
+file_name,gaze.exe,Malware component associated with service termination shadow copy deletion and encryption,CISA/FBI/MS-ISAC advisory,High,Used during impact phase
+tool,Rclone,Tool used for data exfiltration,CISA/FBI/MS-ISAC advisory,Medium,Can be legitimate but suspicious when used unexpectedly
+tool,SoftPerfect Network Scanner,Tool used for network discovery and scanning,CISA/FBI/MS-ISAC advisory,Medium,Monitor unauthorized scanning activity
+tool,Ligolo,Reverse tunneling tool,CISA/FBI/MS-ISAC advisory,Medium,Can support tunneling activity
+tool,Cloudflared,Tunneling or service exposure tool,CISA/FBI/MS-ISAC advisory,Medium,Can be abused for external access
+tool,AnyDesk,Remote access software,CISA/FBI/MS-ISAC advisory,Medium,Monitor unauthorized remote access usage
+tool,Atera,Remote access and management software,CISA/FBI/MS-ISAC advisory,Medium,Monitor unexpected usage
+tool,ConnectWise,Remote access and management software,CISA/FBI/MS-ISAC advisory,Medium,Monitor unexpected usage
